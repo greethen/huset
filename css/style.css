@@ -1,0 +1,68 @@
+*{
+    border: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "raleway";
+    margin: 2em 1.5em 3em 1.5em;
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+h2{
+    padding: 1em;
+}
+
+/*
+p .readMore{
+    padding-bottom: 2em;
+}
+*/
+
+hr {
+    width: 150px;
+    height: 1px;
+    background-color: #CBD4CD;
+}
+.event {
+
+}
+
+.event h1 {
+    font-size: 20px;
+    padding-top: 5em;
+    color: #FBAA19;
+}
+
+img {
+    width: 100%;
+
+}
+
+
+.shortDescription{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#tagMenu li{
+    list-style: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+/*
+a:hover{
+    background-color: hotpink;
+}*/
+
+.price{
+    font-size: 20px;
+}
+
+.date
